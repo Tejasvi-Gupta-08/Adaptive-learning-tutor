@@ -1,0 +1,11 @@
+id, question, option_a, option_b, option_c, option_d, correct, difficulty, concept, explanation, resource_url
+1, "What is the value of (x + y)² if x=2 and y=3?", "10", "25", "20", "15", "b", "1", "algebra", "", ""
+2, "If sinθ = 1/2, then θ = ?", "30°", "45°", "60°", "90°", "a", "2", "geometry", "", ""
+3, "The sum of the first 10 natural numbers is?", "45", "55", "50", "60", "b", "1", "algebra", "" , ""
+4, "If a = 5 and b = 3, find (a² - b²).", "16", "34", "25", "40", "a", "1", "algebra", "" , ""
+5, "What is the solution of 2x + 3 = 11?", "2", "3", "4", "5", "c", "1", "algebra", "" , ""
+6, "What is the HCF of 24 and 36?", "6", "12", "18", "24", "b", "2", "algebra", "" , ""
+7, "If a polynomial f(x) = x² - 5x + 6, then its roots are?", "2 and 3", "3 and 4", "1 and 6", "0 and 6", "a", "2", "algebra", "" , ""
+8, "What is the probability of getting a head when tossing a coin?", "0", "1", "1/2", "2", "c", "1", "probability", "" , ""
+9, "Find the distance between points (3,4) and (0,0).", "3", "4", "5", "6", "c", "2", "geometry", "" , ""
+10, "If the radius of a circle is 7 cm, find its area.", "154 cm²", "147 cm²", "44 cm²", "77 cm²", "a", "1", "geometry", "" , ""
