@@ -1,4 +1,4 @@
-📚 SDG 4 – Adaptive Learning Tutor
+#📚 SDG 4 – Adaptive Learning Tutor
 
 An AI-powered adaptive learning platform designed to provide personalized practice for students, aligned with UN Sustainable Development Goal 4 (Quality Education).
 The system dynamically adjusts questions based on learner mastery using Bayesian Knowledge Tracing (BKT), ensuring a tailored learning experience.
