@@ -3,7 +3,7 @@
 An AI-powered adaptive learning platform designed to provide personalized practice for students, aligned with UN Sustainable Development Goal 4 (Quality Education).
 The system dynamically adjusts questions based on learner mastery using Bayesian Knowledge Tracing (BKT), ensuring a tailored learning experience.
 
-🚀 Features
+## 🚀 Features
 
 ✔ Adaptive Question Selection based on learner's mastery
 ✔ Bayesian Knowledge Tracing (BKT) for tracking concept mastery
@@ -12,7 +12,7 @@ The system dynamically adjusts questions based on learner mastery using Bayesian
 ✔ Session History to review performance
 ✔ Built with Streamlit for an interactive and responsive UI
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python 3.8+
 
